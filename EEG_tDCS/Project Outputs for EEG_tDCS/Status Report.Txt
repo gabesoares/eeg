@@ -1,23 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [EEG_tDCS.PrjPcb]
-   Generated File[EEG_tDCS_PCB.GTL]
-   Generated File[EEG_tDCS_PCB.GBL]
-   Generated File[EEG_tDCS_PCB.GTO]
-   Generated File[EEG_tDCS_PCB.GTP]
-   Generated File[EEG_tDCS_PCB.GTS]
-   Generated File[EEG_tDCS_PCB.GBS]
-   Generated File[EEG_tDCS_PCB.GBP]
-   Generated File[EEG_tDCS_PCB.GBO]
-   Generated File[EEG_tDCS_PCB.GM1]
-   Generated File[EEG_tDCS_PCB.GM13]
-   Generated File[EEG_tDCS_PCB.GM15]
-   Generated File[EEG_tDCS_PCB.RUL]
-   Generated File[EEG_tDCS_PCB.EXTREP]
-   Generated File[EEG_tDCS_PCB.REP]
 
 
-Files Generated   : 14
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 4:29:53 PM On 2018-11-18
+Finished Output Generation At 11:54:39 AM On 2018-11-23
